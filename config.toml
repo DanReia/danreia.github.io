@@ -1,0 +1,10 @@
+languageCode = 'en-us'
+title = 'Daniel Correia'
+
+# Base URL used when generating links to your pages
+# Set to the URL for your site
+baseURL = "https://danreia.github.io"
+
+# The name of this wonderful theme ;-).
+theme = 'hugo-bearblog'
+
