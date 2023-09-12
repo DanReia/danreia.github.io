@@ -1,6 +1,7 @@
 +++
 title = "What do you want to make the computer do?"
 date = "2023-02-15"
+draft = true
 
 #
 # description is optional
