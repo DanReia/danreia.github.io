@@ -1,7 +1,7 @@
 +++
 title = "What do you want to make the computer do?"
-date = "2023-02-15"
-draft = true
+date = "2023-10-23"
+draft = false
 
 #
 # description is optional
@@ -39,16 +39,12 @@ I think the value underlying the advice of "What do you want to make the compute
 My argument is therefore: 
 
 1. Program something that you want to make the computer do that serves only you and not some peer-pressured agenda based on the current hype.
-Instead of building another grep or a multithreaded webserver.
-Find a problem/area of interest in our life that you believe could be solved by a programme within your grasp and attempt to make it.
+Instead of building another grep or a multithreaded webserver, find a problem/area of interest in your life that you believe could be solved by a program within your grasp and attempt to make it.
 It doesn't matter if there is a package out there that does what you want, that is not the point.
 Just build it, publish it and enjoy it.
 
-2. Try no-dependancy learning (within reason).
+2. Try no-dependancy learning (within reason). You are never going to learn multithreaded programming by using a package that does it for you, nor are you going to find any fulfillment in importing that package to do so. It is the resistance to learning that makes it fulfilling and forces you out of your comfort zone, where true learning takes place.
 
-You are never going to learn multithreaded programming by using a package that does it for you, nor are you going to find any fulfillment in importing that package to do so.
-
-It is the resistance to learning that makes it fulfilling and forces you out of your comfort zone, where true learning takes place.
 Of course, these are just my opinions but I would love to hear if the statement resonates with you too and if you have found fulfillment in learning this way.
 
 Happy building!"
