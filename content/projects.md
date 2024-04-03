@@ -5,8 +5,3 @@ url = "/projects"
 menu="main"
 type="page"
 +++
-
-
-* Causal Inference
-* Google Cloud Platform
-* Rust
