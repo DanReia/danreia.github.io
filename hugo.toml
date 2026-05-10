@@ -1,9 +1,27 @@
-languageCode = 'en-us'
-title = 'Daniel Correia'
+languageCode = "en-us"
+title = "Daniel Correia"
 
-# Base URL used when generating links to your pages
-# Set to the URL for your site
-baseURL = "https://danreia.github.io"
+# Custom domain — this is the single most important fix
+baseURL = "https://danielcorreia.org/"
 
-# The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = "hugo-bearblog"
+
+# Generate sitemap and RSS for findability
+enableRobotsTXT = true
+
+[params]
+  copyright = "Daniel Correia"
+  # Site-wide defaults used as fallbacks when a page doesn't set its own
+  description = "Daniel Correia — data scientist and machine learning engineer. Notes, projects, and writing on applied ML, statistics, and engineering."
+  author = "Daniel Correia"
+  # Path to default OG image, relative to /static
+  #images = ["/og-default.png"]
+
+[services]
+  [services.googleAnalytics]
+    # Move your GA/GTM tag here if you want Hugo to manage it
+    # id = "G-XXXXXXXXX"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
